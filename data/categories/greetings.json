@@ -1,0 +1,33 @@
+{
+  "category_name": "greetings",
+  "words": [
+    {
+      "id": "hello",
+      "difficulty": "beginner",
+      "translations": {
+        "tr": {
+          "text": "merhaba",
+          "exampleSentence": "Merhaba, nasılsın?",
+          "pronunciations": {
+            "tr": "mer·ha·ba",
+            "en": "mare·ha·bah",
+            "es": "mer·ja·ba",
+            "fr": "mer·a·ba",
+            "de": "mer·ha·ba"
+          }
+        },
+        "en": {
+          "text": "hello",
+          "exampleSentence": "Hello, how are you?",
+          "pronunciations": {
+            "tr": "he·lo",
+            "en": "heh·low",
+            "es": "je·lou",
+            "fr": "he·lo",
+            "de": "hal·lo"
+          }
+        }
+      }
+    }
+  ]
+}
